@@ -11,6 +11,9 @@ class App extends Component {
           <p>
             React App with GH-Pages.
           </p>
+          <p>
+            by: <strong>Marcos Romero.</strong>
+          </p>
         </header>
       </div>
     );
